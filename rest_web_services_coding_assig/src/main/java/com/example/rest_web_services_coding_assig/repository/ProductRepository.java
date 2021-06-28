@@ -1,5 +1,6 @@
-package com.example.rest_web_services_coding_assig;
+package com.example.rest_web_services_coding_assig.repository;
 
+import com.example.rest_web_services_coding_assig.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

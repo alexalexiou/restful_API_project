@@ -1,4 +1,4 @@
-package com.example.rest_web_services_coding_assig;
+package com.example.rest_web_services_coding_assig.model;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
